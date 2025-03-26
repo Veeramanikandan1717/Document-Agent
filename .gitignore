@@ -1,0 +1,57 @@
+# Byte-compiled / optimized / DLL files
+*.pyc
+*.pyo
+*.pyd
+*.dll
+*.lib
+*.so
+
+Agents
+# Virtual environments
+venv/
+.env/
+.venv/
+__pycache__/
+
+# Dependency files
+Pipfile
+Pipfile.lock
+poetry.lock
+requirements.txt
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and debug files
+*.log
+*.out
+*.err
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE and editor settings
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Git history backups
+*.bak
+*.swp
+*.swo
+
+# Large model and database files
+*.h5
+*.pth
+*.onnx
+*.pb
+*.tflite
+*.sqlite
+*.db
+
+# Git Large File Storage (LFS) metadata
+.gitattributes
+
+# Ignore any large files explicitly
+large_files/
