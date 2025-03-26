@@ -6,3 +6,4 @@ qdrant-client
 python-dotenv
 google-generativeai
 torch  # Add this if not already installed
+nest_asyncio
