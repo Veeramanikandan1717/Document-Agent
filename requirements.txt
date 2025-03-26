@@ -1,0 +1,8 @@
+streamlit
+PyPDF2
+pandas
+sentence-transformers
+qdrant-client
+python-dotenv
+google-generativeai
+torch  # Add this if not already installed
